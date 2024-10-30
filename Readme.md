@@ -1,4 +1,5 @@
 ## Desafio de projeto simples para desenvolver um classificador de nível.
+Eu fiz 2 versões, 1 com Js e outra com java e utilizando scanner para a entrada do nome e o xp do heroi.
 
 **O Que deve ser utilizado**
 
